@@ -5,4 +5,5 @@ Before using this make sure to install PRAW using:
 pip install praw
 (may need to use pip3 to install for python 3 depending on your system)
 
-PRAW documentation <a href="[https://discord.js.org/#/](https://praw.readthedocs.io/en/stable/getting_started/installation.html)https://praw.readthedocs.io/en/stable/getting_started/installation.html" target="_blank">here</a>
+PRAW documentation <a href="https://praw.readthedocs.io/en/stable/getting_started/installation.html">here</a>
+
